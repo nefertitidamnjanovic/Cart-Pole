@@ -1,0 +1,10 @@
+Stabilizacija inverznog klatna
+
+Kolica sa klatnom
+
+1. Nagrada 0 ako si pao, nagrada 1 ako nisi
+2. Interaval za theta u kom se dobija nagrada
+3. Kako se povecava theta nagrada opada nekom nelinearnom relacijom
+
+Pronaci upravljacku strategiju (optimalnu)
+Bilo koji algoritam ()
